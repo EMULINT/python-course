@@ -1,0 +1,8 @@
+Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su codigo.
+
+Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
+
+A medida que evoluciona la tecnología y se reduce el tamaño de los transistores para producir microchips cada vez más pequeños, esto se traduce en mayor velocidad de proceso. Sin embargo, no se pueden hacer los chips infinitamente pequeños, ya que hay un límite tras el cual dejan de funcionar correctamente. Cuando se llega a la escala de nanómetros, los electrones se escapan de los canales por donde deben circular. A esto se le llama efecto túnel.Las nuevas tecnologías cambiaran el mundo como la inteligencia artificial y el Big DataLas nuevas tecnologías cambiaran el mundo como la inteligencia artificial y el Big Data
+Las nuevas tecnologías cambiaran el mundo como la inteligencia artificial y el Big Data
+Las nuevas tecnologías cambiaran el mundo como la inteligencia artificial y el Big Data
+Las nuevas tecnologías cambiaran el mundo como la inteligencia artificial y el Big Data
